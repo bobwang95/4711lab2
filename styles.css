@@ -1,0 +1,45 @@
+div {
+  margin: auto;
+}
+
+.top {
+  border-style: solid;
+  border-width: 0.5px;
+  width: 50%;
+}
+h1 {
+  display: flex;
+  justify-content: left;
+  padding-left: 60px;
+}
+.bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.bar input {
+  text-align: center;
+  width: 80%;
+}
+.people {
+  border-style: solid;
+  border-width: 0.1px;
+  width: 300px;
+  height: 100px;
+  float: none;
+}
+p.name {
+  font-weight: bold;
+}
+p.detial {
+
+}
+.people:hover {
+  background-color: rgb(240, 240, 240);
+}
+.pic1 {
+  margin: 10px;
+  float: left;
+}
